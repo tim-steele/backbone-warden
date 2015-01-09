@@ -1,4 +1,5 @@
-
+// Backbone.Warden v0.1
+// Distributed Under MIT License
 
 (function (factory){
 
