@@ -1,0 +1,21 @@
+{
+  "name": "Backbone Warden",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tim-steele/backbone-warden",
+  "authors": [
+    "Tim Steele"
+  ],
+  "description": "A Backbone Model plugin that makes model data private.",
+  "main": "backbone.warden.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
